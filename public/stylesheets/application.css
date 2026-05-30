@@ -1,0 +1,20 @@
+
+body {
+  background-color: lightblue;
+}
+
+p {
+  font-size: 28px;
+}
+/* all P has this element */
+/* all class identifier can overule P */
+
+.first {
+  text-decoration: underline;
+  font-size: 40px;
+}
+
+.zebra {
+  background-color: black;
+  color: white;
+}
